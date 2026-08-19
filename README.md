@@ -21,4 +21,5 @@ An Object-Oriented Python application modeling automated teller machine operatio
 | **Transaction Logic** | Deposit Handlers, Withdrawal Verification Procedures[cite: 1] |
 
 ## 👤 Author
-**Sumaiya Salekin Saba**
+* **Sumaiya Salekin Saba**
+* **Md. Shehabur Rahman**
