@@ -23,3 +23,4 @@ An Object-Oriented Python application modeling automated teller machine operatio
 ## 👤 Author
 * **Sumaiya Salekin Saba**
 * **Md. Shehabur Rahman**
+* **Sanjida Binta Islam**
